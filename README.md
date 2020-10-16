@@ -1,0 +1,1 @@
+Multihtread Gzip without async/await, ThreadPool, BackgroundWorker, TPL.
